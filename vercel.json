@@ -26,13 +26,5 @@
     "APP_MODULE": "main:app"
   },
   "cleanUrls": true,
-  "trailingSlash": false,
-  "excludeFiles": [
-    "**/*.pyc",
-    "**/__pycache__/**",
-    ".env",
-    ".git/**",
-    ".venv/**",
-    "logs/**"
-  ]
+  "trailingSlash": false
 }
